@@ -26,6 +26,3 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-zago-15a77b231/)
 
 
-###
-
- ![Snake animation](https://github.com/RSZago/RSZago/blob/output/github-contribution-grid-snake.svg)
